@@ -1,1 +1,1 @@
-# Playwright_Automation_InitialBase
+# Playwright initial framework
